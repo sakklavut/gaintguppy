@@ -4,7 +4,3 @@ body{
     font-size: 18px;
     font-family: 'Mitr', sans-serif;
 }
-
-.owl-carousel .owl-item img {
- display: none;
-}
